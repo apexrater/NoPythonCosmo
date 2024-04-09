@@ -13,12 +13,13 @@ This project is a Library Management System built with FastAPI and MongoDB. It p
 ## Setup
 
 1. **Clone the repository:**
+
    ```
    git clone <repository_url>
    cd library_management_system
    ```
 
-## Configure MongoDB
+2. **Configure MongoDB**
 
 - Sign up for MongoDB Atlas and create an M0 Free Tier cluster.
 - Obtain the connection string.
